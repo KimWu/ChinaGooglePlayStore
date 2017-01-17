@@ -1,4 +1,4 @@
-# MiuiPlayStore (迷你 Play Store)
+# Mini Google Play Store 
 ## Mini google store for  China MIUI Rom 
 
 ## 緣由
