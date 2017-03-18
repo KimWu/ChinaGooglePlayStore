@@ -7,7 +7,9 @@
 3. 按兩下 **AutoExtract.cmd** 運行, 自動生成 **PlayStore-YYYYMMDD.zip**.
   <img src="./images/ExtractGooglePlayStore.gif" width="400">
 4. 將 **PlayStore-YYYYMMDD.zip** 擺到手裡, 解開安裝. 安裝時**不能選運行**, 只能選完成.
+
 5. 將安裝的幾個Google服務,全部設為自動運行, 然後重啟一次手機.
+
 6. 安裝完成, 可以使用google play store.
 
 *注意, 請先安裝7-zip, 64位系統請安裝64位的7-zip, 使用默認的安裝路徑.
