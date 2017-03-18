@@ -1,7 +1,7 @@
 ## 從OpenGapps抽取Google Play Store
 
 
-1. 下載抽取Google Play Store [腳本(按些下載)](https://github.com/hkKimWu/ChinaGooglePlayStore/raw/master/OpenGapps/ExtractGooglePlayStoreScripts.zip) , 解開到一個文件夾裡面.
+1. 下載抽取Google Play Store [腳本(按這裡下載)](https://github.com/hkKimWu/ChinaGooglePlayStore/raw/master/OpenGapps/ExtractGooglePlayStoreScripts.zip) , 解開到一個文件夾裡面.
 2. 去 OpenGapps.org 下載適合版本的aroma包, 擺放在同一個文件夾.
   <img src="./images/OpenGapps.png" width="400">
 3. 按兩下 **AutoExtract.cmd** 運行, 自動生成 **PlayStore-YYYYMMDD.zip**.
